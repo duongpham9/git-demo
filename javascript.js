@@ -1,6 +1,6 @@
 //"use strict";
 var object = {
-    name: "Duong",
+    name: "Duy",
     age: 23,
     eat: function () {
         return "eating"
